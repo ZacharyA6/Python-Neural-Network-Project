@@ -1,0 +1,64 @@
+{
+  "Luke Skywalker":
+  {
+    "faction": "Rebel Alliance",
+    "affiliations": ["Jedi Order"],
+    "fun_fact": "Bullseyed womp rats in his T-16."
+  },
+  "Darth Vader":
+  {
+    "faction": "Galactic Empire",
+    "affiliations": ["Sith"],
+    "fun_fact": "Built C-3PO as a child."
+  },
+  "Leia Organa (Princess Leia)":
+  {
+    "faction": "Rebel Alliance",
+    "affiliations": ["Jedi", "Rebellion", "Senate"],
+    "fun_fact": "The youngest senator in the senate at just 18 years old."
+  },
+  "Boba Fett":
+  {
+    "faction": "Bounty Hunter",
+    "affiliations": ["Hutt Cartel", "Tusken Raiders", "Mandalorians"],
+    "fun_fact": "At 13 years old he was behind the attempted assassination of Mace Windu."
+  },
+  "Obi-Wan Kenobi":
+  {
+    "faction": "Galactic Republic",
+    "affiliations": ["Jedi"],
+    "fun_fact": "Was in love with Duchess Satine of Mandalore."
+  },
+  "Padme Amidala":
+  {
+    "faction": "Galactic Republic",
+    "affiliations": ["Republic Senate", "Naboo"],
+    "fun_fact": "(Quote) 'So this is how liberty dies. With thunderous applause.'"
+  },
+  "Ahsoka Tano":
+  {
+    "faction": "Galactic Republic, Rebellion",
+    "affiliations": ["The Force", "Rebel Alliance", "Grey Jedi"],
+    "fun_fact": "Blames herself for Anakin's downfall."
+  },
+  "Emperor Palpatine (Darth Sidious)":
+  {
+    "faction": "Galactic Empire",
+    "affiliations": ["Sith", "Galactic Empire"],
+    "fun_fact": "Manipulated both sides of the Clone Wars."
+  },
+
+  "Han Solo":
+  {
+    "faction": "Rebel Alliance",
+    "affiliations": ["Rebel Alliance", "Smugglers"],
+    "fun_fact": "Made the Kessel Run in less than twelve parsecs."
+  },
+
+  "Darth Maul":
+  {
+    "faction": "Sith",
+    "affiliations": ["Sith", "Crimson Dawn"],
+    "fun_fact": "Was stolen from his home as a baby by Palpatine and forced into a life of evil."
+  }
+}
